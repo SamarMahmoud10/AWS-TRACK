@@ -84,7 +84,7 @@ If you find these notes helpful for your study or revision, feel free to drop a 
 
 * **Author:** Samar Mahmoud
 * **GitHub:** [@SamarMahmoud10](https://github.com)
-* **LinkedIn:** [https://www.linkedin.com/in/samar-mahmoud-1a4b1228a/]
+* **LinkedIn:** https://www.linkedin.com/in/samar-mahmoud-1a4b1228a/
 
 ---
 _Disclaimer: These materials are personal study notes created during the Manara program to synthesize complex knowledge into production-grade documentation. All AWS logos and service definitions belong to Amazon Web Services._
